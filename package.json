@@ -1,0 +1,18 @@
+{
+  "name": "streamline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rpavlovs/streamline.git",
+  "author": "Roman Pavlovskyi <rpavlovskyi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "hardhat",
+      "remix"
+    ],
+    "nohoist": [
+      "**"
+    ]
+  }
+}

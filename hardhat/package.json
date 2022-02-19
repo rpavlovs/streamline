@@ -1,0 +1,8 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rpavlovs/streamline.git",
+  "license": "MIT",
+  "private": true
+}
